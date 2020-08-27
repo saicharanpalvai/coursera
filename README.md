@@ -1,2 +1,2 @@
 # coursera
-coutsera assignments
+coursera assignments
